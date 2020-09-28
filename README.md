@@ -1,4 +1,4 @@
-# resources_2020_09
+# resources for sac svt 2021
 
 This repository hosts the resources that accompany the submission of "A small-step approach to multitrace checking against interactions":
 - "hibou_implem_and_examples.zip" contains the implementation executable and some example input files
